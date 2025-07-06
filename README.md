@@ -54,7 +54,9 @@ It was going to have all these libraries and work offline too. Totaling in 793mb
 ```chaquopy-freetype-2.9.1 chaquopy-libcxx-180000 chaquopy-libgfortran-4.9 chaquopy-libjpeg-1.5.3 chaquopy-libomp-9.0.9 chaquopy-libpng-1.6.34 chaquopy-llvm-8.0.0 chaquopy-openblas-0.2.20 importlib-metadata-8.5.0 llvmlite-0.31.0 numba-0.48.0 numpy-1.19.5 opencv-python-headless-4.5.1.48 pillow-9.2.0 regex-2023.10.3 setuptools-75.3.2 tflite-runtime-2.5.0 toga-android-0.4.7 toga-core-0.4.7 torch-1.8.1 torchvision-0.9.1 travertino-0.3.0 typing-extensions-4.13.2 zipp-3.20.2```
 
 at least in the google play, for those who wants to download the version that has more libraries, you can download the apk from the drive link. But I am working on Play Asset Delivery. Later the library package would be installed from the google play store.
-👉 
+
+👉 <b> From Google Drive</b>
+
 https://drive.google.com/file/d/1vQu_5WCsjcHgzqB5pTecc0pXFQQMCdUo/view?usp=sharing
 
 
