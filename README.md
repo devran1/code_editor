@@ -1,15 +1,57 @@
+
+
+
+<div align="center">
+
+<picture>
+  <h1 >Orbit Python Editor</h1>
+
+  <a href="url"><img src="icon.png" width=150, height=150, ></a>
+
+</picture>
 I just published my first Python editor app on Google Play!
+
+I’ve built Orbit Python Editor entirely in Python3.8 (using Toga, and Briefcase) and released it on Android:
+
+<a style="display:inline-block;line-height:18px;margin-top:8px;padding:0;font-size:13px" href="https://play.google.com/store/apps/details?id=com.Orbit_Python_editor.Orbit_Python_editor">
+<b>👉 </b> Try 
+<b> Orbit Python Editor</b> 
+on Google Play
+</a>
+
+
+<h3>
+
+[Homepage](https://github.com/devran1/code_editor) 
+
+</h3>
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/devran1/code_editor)](https://github.com/devran1/code_editor/stargazers)
+
+</div>
+
+
+
+
+****
+
+<div align="center">
+
+
+screen shots of the app
 
 <a href="url"><img src="1.jpeg" width=200, height=400, ></a>
 <a href="url"><img src="2.jpeg" width=200, height=400, ></a>
 <a href="url"><img src="3.jpeg" width=200, height=400, ></a>
 <a href="url"><img src="4.jpeg" width=200, height=400, ></a>
 
-I’ve built Orbit Python Editor entirely in Python (using Python 3.8, Toga, and Briefcase) and released it on Android:
+</div>
 
-👉 Try <b> Orbit Python Editor</b> on Google Play
 
-https://play.google.com/store/apps/details?id=com.Orbit_Python_editor.Orbit_Python_editor
+
+****
+
+
 
 Why I built this:
 
