@@ -6,7 +6,7 @@
 <picture>
   <h1 >Orbit Python Editor</h1>
 
-  <a href="url"><img src="icon.png" width=150, height=150, ></a>
+  <a href="url"><img src="iconx.png" width=150, height=150, ></a>
 
 </picture>
 I just published my first Python editor app on Google Play!
